@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,5,30&height=170&section=header&text=Hi%20I’m%20Mohammed%20Aasif&fontSize=54&fontColor=E6EDF3&fontAlignY=40&desc=Backend-Focused%20Full%20Stack%20Developer&descAlignY=65&descSize=30" />
+ <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E2A2F,100:143A40&height=170&section=header&text=Hi%20I’m%20Mohammed%20Aasif&fontSize=54&fontColor=E6EDF3&fontAlignY=40&desc=Backend-Focused%20Full%20Stack%20Developer&descAlignY=65&descSize=30" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=30&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Java+%7C+Spring+Boot+%7C+SQL;Clean+Code+and+Maintainable+Systems;REST+APIs+and+Backend+Architecture;Scalable+Application+Development" />
+ <img src="https://readme-typing-svg.demolab.com?font=Inter&size=30&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Java+%7C+Spring+Boot+%7C+SQL;REST+API+Development;Clean+Backend+Design;Backend+Systems+%26+Data+Handling" />
 </p>
 <hr style="border:1px solid #30363d">
 
@@ -12,25 +12,30 @@ Pre-final year Computer Science Engineering student focused on backend and full 
 
 ## Current Focus
 
-<img align="right" width="380" src="https://media.giphy.com/media/l0MYBQm4U8CwQZocs/giphy.gif" />
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- Backend-driven full stack projects with Java & Spring Boot  
-- REST API design and backend architecture  
-- SQL queries, schema design, and optimization  
-- Data Structures and Algorithms using Java  
-- System design fundamentals for scalable applications  
+
+| Area | Focus |
+|-----|------|
+| Full Stack | Backend-driven projects using Java & Spring Boot |
+| APIs | REST API design & backend architecture |
+| Databases | SQL queries, schema design & optimization |
+| DSA | Data Structures & Algorithms using Java |
+| System Design | Fundamentals for scalable applications |
+ 
 
 ## Key Projects
 
 **Food Products Search Platform**  
 Tech Stack: Java · Spring Boot · MySQL · HTML · CSS · JavaScript  
-- A full stack food search platform built using RESTful backend services.  
-- Focused on clean API design, relational database structure, and responsive UI.  
+- A full stack food search platform built using RESTful backend services.<br>
+repo link : https://github.com/aasif-developer/springboot-product-search.git
 
 **Iron Man Cinematic Website**  
 Tech Stack: HTML · CSS · JavaScript  
-- An interactive, cinematic-themed frontend website inspired by the Iron Man universe.  
-- Implemented smooth transitions, full-screen intro flow, and responsive layouts.  
+- An interactive, cinematic-themed frontend website inspired by the Iron Man universe.<br>
+repo link : https://github.com/aasif-developer/cr7-website.git
+ 
 
 ## 💻 Tech Stack
 
@@ -67,4 +72,5 @@ https://www.linkedin.com/in/mohammed-aasif-dev
 aasifmmd12345@gmail.com  
 
 [![Contact](https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919585270647)  
-+91 95852 70647  
+<span style="color:#58A6FF;">+91 95852 70647</span>
+
