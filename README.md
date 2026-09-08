@@ -26,6 +26,12 @@ Pre-final year Computer Science Engineering student focused on backend and full 
 
 ## Key Projects
 
+SGC EXAGENT AI 2026  
+Tech Stack: React · Vite · Tailwind CSS · Framer Motion · React Router · Supabase · Vercel  
+- Official workshop registration and management platform for the SGC EXAGENT AI 2026 workshop, supporting 220+ registrations.  
+- Implemented registration, automatic team allocation, coordinator dashboard, payment status management, and responsive UI.  
+Repo Link: https://github.com/aasif-developer/sgc-exagent-ai-2026
+
 **Food Products Search Platform**  
 Tech Stack: Java · Spring Boot · MySQL · HTML · CSS · JavaScript  
 - A full stack food search platform built using RESTful backend services.<br>
